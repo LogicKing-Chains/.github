@@ -18,7 +18,6 @@ Hello, I'm **LogicKing**! 👑 I'm a passionate crypto enthusiast with a strong 
 
 Feel free to connect with me on social media:
 
-- [Twitter](https://x.com/logic_king_) 🐦
-- [Discord](https://discordapp.com/users/1021599254369816667) 🎮
+\- [Twitter](https://x.com/logic_king_) 🐦  -- [Discord](https://discordapp.com/users/1021599254369816667) 🎮 \-
 
 I'm always open to discussing new projects and opportunities in the blockchain space. Let's build the future of decentralized technology together! 🤝🌟
