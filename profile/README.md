@@ -14,6 +14,8 @@ Hello, I'm **LogicKing**! 👑 I'm a passionate crypto enthusiast with a strong 
 - **Node Deployment**: Successfully deployed multiple blockchain nodes for various projects. 🏗️🌉
 - **Validator Operations**: Launched and managed validators, contributing to network security and decentralization. 🔐🛡️
 
+- [Versatus](https://github.com/LogicKing-Chains/Versatus-GUIDE)
+
 ## Contact 📬
 
 Feel free to connect with me on social media:
